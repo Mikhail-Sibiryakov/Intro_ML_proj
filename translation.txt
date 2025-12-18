@@ -1,0 +1,1000 @@
+tench - линь
+goldfish - золотая рыбка
+great white shark - белая акула
+tiger shark - тигровая акула
+hammerhead - акула-молот
+electric ray - электрический скат
+stingray - скат-хвостокол
+cock - петух
+hen - курица
+ostrich - страус
+brambling - зяблик
+goldfinch - щегол
+house finch - домовый вьюрок
+junco - юнко
+indigo bunting - синий овсянковый кардинал
+robin - зарянка
+bulbul - бюльбюль
+jay - сойка
+magpie - сорока
+chickadee - синица
+water ouzel - оляпка
+kite - коршун
+bald eagle - белоголовый орлан
+vulture - гриф
+great grey owl - бородатая неясыть
+European fire salamander - огненная саламандра
+common newt - обыкновенный тритон
+eft - эфт
+spotted salamander - пятнистая саламандра
+axolotl - аксолотль
+bullfrog - лягушка-бык
+tree frog - древесная лягушка
+tailed frog - хвостатая лягушка
+loggerhead - головастая морская черепаха
+leatherback turtle - кожистая черепаха
+mud turtle - иловая черепаха
+terrapin - расписная черепаха
+box turtle - коробчатая черепаха
+banded gecko - полосатый геккон
+common iguana - обыкновенная игуана
+American chameleon - американская анолиса
+whiptail - хлыстохвост
+agama - агама
+frilled lizard - плащеносная ящерица
+alligator lizard - аллигаторовая ящерица
+Gila monster - жилатье
+green lizard - зеленая ящерица
+African chameleon - африканский хамелеон
+Komodo dragon - комодский варан
+African crocodile - африканский крокодил
+American alligator - американский аллигатор
+triceratops - трицератопс
+thunder snake - громовая змея
+ringneck snake - кольчатая змея
+hognose snake - свиноносая змея
+green snake - зеленая змея
+king snake - королевская змея
+garter snake - подвязочная змея
+water snake - водяной уж
+vine snake - плетевидная змея
+night snake - ночная змея
+boa constrictor - удав
+rock python - скальный питон
+Indian cobra - индийская кобра
+green mamba - зеленая мамба
+sea snake - морская змея
+horned viper - рогатая гадюка
+diamondback - гремучая змея
+sidewinder - рогатый гремучник
+trilobite - трилобит
+harvestman - сенокосец
+scorpion - скорпион
+black and gold garden spider - паук-оса
+barn spider - крестовик
+garden spider - садовый паук
+black widow - черная вдова
+tarantula - тарантул
+wolf spider - паук-волк
+tick - клещ
+centipede - сороконожка
+black grouse - тетерев
+ptarmigan - белая куропатка
+ruffed grouse - воротничковый рябчик
+prairie chicken - луговая курица
+peacock - павлин
+quail - перепел
+partridge - куропатка
+African grey - жако
+macaw - ара
+sulphur-crested cockatoo - большой белохохлый какаду
+lorikeet - лорикет
+coucal - кукаль
+bee eater - щурка
+hornbill - носорог
+hummingbird - колибри
+jacamar - якамара
+toucan - тукан
+drake - селезень
+red-breasted merganser - длинноносый крохаль
+goose - гусь
+black swan - черный лебедь
+tusker - слон
+echidna - ехидна
+platypus - утконос
+wallaby - валлаби
+koala - коала
+wombat - вомбат
+jellyfish - медуза
+sea anemone - актиния
+brain coral - мозговой коралл
+flatworm - плоский червь
+nematode - нематода
+conch - конус
+snail - улитка
+slug - слизень
+sea slug - морской слизень
+chiton - хитон
+chambered nautilus - наутилус
+Dungeness crab - краб-дандженесс
+rock crab - каменный краб
+fiddler crab - краб-скрипач
+king crab - королевский краб
+American lobster - американский омар
+spiny lobster - лангуст
+crayfish - речной рак
+hermit crab - рак-отшельник
+isopod - равноногий
+white stork - белый аист
+black stork - черный аист
+spoonbill - колпица
+flamingo - фламинго
+little blue heron - малая голубая цапля
+American egret - американская белая цапля
+bittern - выпь
+crane - журавль
+limpkin - арама
+European gallinule - камышница
+American coot - американская лысуха
+bustard - дрофа
+ruddy turnstone - камнешарка
+red-backed sandpiper - чернозобик
+redshank - травник
+dowitcher - грязовик
+oystercatcher - кулик-сорока
+pelican - пеликан
+king penguin - королевский пингвин
+albatross - альбатрос
+grey whale - серый кит
+killer whale - косатка
+dugong - дюгонь
+sea lion - морской лев
+Chihuahua - чихуахуа
+Japanese spaniel - японский хин
+Maltese dog - мальтийская болонка
+Pekinese - пекинес
+Shih-Tzu - ши-тцу
+Blenheim spaniel - спаниель Бленхейма
+papillon - папильон
+toy terrier - той-терьер
+Rhodesian ridgeback - родезийский риджбек
+Afghan hound - афганская борзая
+basset - бассет-хаунд
+beagle - бигль
+bloodhound - бладхаунд
+bluetick - голубой кунхаунд
+black-and-tan coonhound - черно-подпалый кунхаунд
+Walker hound - кунхаунд Уокера
+English foxhound - английский фоксхаунд
+redbone - рыжий кунхаунд
+borzoi - борзая
+Irish wolfhound - ирландский волкодав
+Italian greyhound - итальянская борзая
+whippet - уиппет
+Ibizan hound - ивисская борзая
+Norwegian elkhound - норвежский элкхаунд
+otterhound - оттерхаунд
+Saluki - салюки
+Scottish deerhound - шотландский дирхаунд
+Weimaraner - веймаранер
+Staffordshire bullterrier - стаффордширский бультерьер
+American Staffordshire terrier - американский стаффордширский терьер
+Bedlington terrier - бедлингтон-терьер
+Border terrier - бордер-терьер
+Kerry blue terrier - керри-блю-терьер
+Irish terrier - ирландский терьер
+Norfolk terrier - норфолк-терьер
+Norwich terrier - норвич-терьер
+Yorkshire terrier - йоркширский терьер
+wire-haired fox terrier - жесткошерстный фокстерьер
+Lakeland terrier - лейкленд-терьер
+Sealyham terrier - силихем-терьер
+Airedale - эрдельтерьер
+cairn - керн-терьер
+Australian terrier - австралийский терьер
+Dandie Dinmont - денди-динмонт-терьер
+Boston bull - бостон-терьер
+miniature schnauzer - миниатюрный шнауцер
+giant schnauzer - ризеншнауцер
+standard schnauzer - стандартный шнауцер
+Scotch terrier - скотч-терьер
+Tibetan terrier - тибетский терьер
+silky terrier - шелковистый терьер
+soft-coated wheaten terrier - мягкошерстный пшеничный терьер
+West Highland white terrier - вест-хайленд-уайт-терьер
+Lhasa - лхаса апсо
+flat-coated retriever - прямошерстный ретривер
+curly-coated retriever - курчавошерстный ретривер
+golden retriever - золотистый ретривер
+Labrador retriever - лабрадор-ретривер
+Chesapeake Bay retriever - чесапик-бей-ретривер
+German short-haired pointer - немецкий курцхаар
+vizsla - венгерская выжла
+English setter - английский сеттер
+Irish setter - ирландский сеттер
+Gordon setter - гордон-сеттер
+Brittany spaniel - бретонский спаниель
+clumber - клумбер-спаниель
+English springer - английский спрингер-спаниель
+Welsh springer spaniel - вельш-спрингер-спаниель
+cocker spaniel - кокер-спаниель
+Sussex spaniel - суссекс-спаниель
+Irish water spaniel - ирландский водяной спаниель
+kuvasz - кувас
+schipperke - шипперке
+groenendael - грюнендаль
+malinois - малинуа
+briard - бриар
+kelpie - келпи
+komondor - комондор
+Old English sheepdog - староанглийская овчарка
+Shetland sheepdog - шелти
+collie - колли
+Border collie - бордер-колли
+Bouvier des Flandres - фландрский бувье
+Rottweiler - ротвейлер
+German shepherd - немецкая овчарка
+Doberman - доберман
+miniature pinscher - карликовый пинчер
+Greater Swiss Mountain dog - большой швейцарский зенненхунд
+Bernese mountain dog - бернский зенненхунд
+Appenzeller - аппенцеллер зенненхунд
+EntleBucher - энтлебухер зенненхунд
+boxer - боксер
+bull mastiff - бульмастиф
+Tibetan mastiff - тибетский мастиф
+French bulldog - французский бульдог
+Great Dane - немецкий дог
+Saint Bernard - сенбернар
+Eskimo dog - эскимосская лайка
+malamute - маламут
+Siberian husky - сибирский хаски
+dalmatian - далматин
+affenpinscher - аффенпинчер
+basenji - басенджи
+pug - мопс
+Leonberg - леонбергер
+Newfoundland - ньюфаундленд
+Great Pyrenees - большая пиренейская собака
+Samoyed - самоед
+Pomeranian - померанский шпиц
+chow - чау-чау
+keeshond - кеесхонд
+Brabancon griffon - брабансон
+Pembroke - вельш-корги пемброк
+Cardigan - вельш-корги кардиган
+toy poodle - той-пудель
+miniature poodle - карликовый пудель
+standard poodle - стандартный пудель
+Mexican hairless - мексиканская голая собака
+timber wolf - лесной волк
+white wolf - белый волк
+red wolf - красный волк
+coyote - койот
+dingo - динго
+dhole - красный волк
+African hunting dog - гиеновидная собака
+hyena - гиена
+red fox - рыжая лиса
+kit fox - американская лисица
+Arctic fox - песец
+grey fox - серая лиса
+tabby - полосатая кошка
+tiger cat - полосатая кошка
+Persian cat - персидская кошка
+Siamese cat - сиамская кошка
+Egyptian cat - египетская мау
+cougar - пума
+lynx - рысь
+leopard - леопард
+snow leopard - снежный барс
+jaguar - ягуар
+lion - лев
+tiger - тигр
+cheetah - гепард
+brown bear - бурый медведь
+American black bear - американский черный медведь
+ice bear - белый медведь
+sloth bear - медведь-губач
+mongoose - мангуст
+meerkat - сурикат
+tiger beetle - жужелица
+ladybug - божья коровка
+ground beetle - жужелица
+long-horned beetle - усач
+leaf beetle - листоед
+dung beetle - навозный жук
+rhinoceros beetle - жук-носорог
+weevil - долгоносик
+fly - муха
+bee - пчела
+ant - муравей
+grasshopper - кузнечик
+cricket - сверчок
+walking stick - палочник
+cockroach - таракан
+mantis - богомол
+cicada - цикада
+leafhopper - цикадка
+lacewing - златоглазка
+dragonfly - стрекоза
+damselfly - стрелка
+admiral - адмирал
+ringlet - чернушка
+monarch - монарх
+cabbage butterfly - белянка
+sulphur butterfly - желтушка
+lycaenid - голубянка
+starfish - морская звезда
+sea urchin - морской еж
+sea cucumber - морской огурец
+wood rabbit - лесной кролик
+hare - заяц
+Angora - ангорский кролик
+hamster - хомяк
+porcupine - дикобраз
+fox squirrel - лисья белка
+marmot - сурок
+beaver - бобер
+guinea pig - морская свинка
+sorrel - лошадь
+zebra - зебра
+hog - свинья
+wild boar - дикий кабан
+warthog - бородавочник
+hippopotamus - бегемот
+ox - вол
+water buffalo - водяной буйвол
+bison - бизон
+ram - баран
+bighorn - толсторог
+ibex - ибекс
+hartebeest - конгони
+impala - импала
+gazelle - газель
+Arabian camel - арабский верблюд
+llama - лама
+weasel - ласка
+mink - норка
+polecat - хорек
+black-footed ferret - черноногий хорек
+otter - выдра
+skunk - скунс
+badger - барсук
+armadillo - броненосец
+three-toed sloth - трехпалый ленивец
+orangutan - орангутанг
+gorilla - горилла
+chimpanzee - шимпанзе
+gibbon - гиббон
+siamang - сиаманг
+guenon - мартышка
+patas - мартышка-гусар
+baboon - бабуин
+macaque - макака
+langur - лангур
+colobus - колобус
+proboscis monkey - носач
+marmoset - мармозетка
+capuchin - капуцин
+howler monkey - ревун
+titi - тити
+spider monkey - коата
+squirrel monkey - саймири
+Madagascar cat - мадагаскарская виверра
+indri - индри
+Indian elephant - индийский слон
+African elephant - африканский слон
+lesser panda - малая панда
+giant panda - большая панда
+barracouta - барракуда
+eel - угорь
+coho - кижуч
+rock beauty - рыба-ангел
+anemone fish - рыба-клоун
+sturgeon - осетр
+gar - панцирная щука
+lionfish - крылатка
+puffer - рыба-еж
+abacus - счеты
+abaya - абайя
+academic gown - мантия
+accordion - аккордеон
+acoustic guitar - акустическая гитара
+aircraft carrier - авианосец
+airliner - авиалайнер
+airship - дирижабль
+altar - алтарь
+ambulance - скорая помощь
+amphibian - вездеход
+analog clock - аналоговые часы
+apiary - пасека
+apron - фартук
+ashcan - мусорный бак
+assault rifle - автомат
+backpack - рюкзак
+bakery - пекарня
+balance beam - гимнастическое бревно
+balloon - воздушный шар
+ballpoint - шариковая ручка
+Band Aid - пластырь
+banjo - банджо
+bannister - перила
+barbell - штанга
+barber chair - парикмахерское кресло
+barbershop - парикмахерская
+barn - сарай
+barometer - барометр
+barrel - бочка
+barrow - тачка
+baseball - бейсбол
+basketball - баскетбол
+bassinet - колыбель
+bassoon - фагот
+bathing cap - шапочка для плавания
+bath towel - банное полотенце
+bathtub - ванна
+beach wagon - пляжный фургон
+beacon - маяк
+beaker - мензурка
+bearskin - медвежья шкура
+beer bottle - пивная бутылка
+beer glass - пивной бокал
+bell cote - колоколенка
+bib - слюнявчик
+bicycle-built-for-two - тандем
+bikini - бикини
+binder - папка
+binoculars - бинокль
+birdhouse - скворечник
+boathouse - эллинг
+bobsled - бобслей
+bolo tie - галстук-боло
+bonnet - чепчик
+bookcase - книжный шкаф
+bookshop - книжный магазин
+bottlecap - крышка от бутылки
+bow - бант
+bow tie - галстук-бабочка
+brass - латунь
+brassiere - бюстгальтер
+breakwater - волнорез
+breastplate - нагрудник
+broom - метла
+bucket - ведро
+buckle - пряжка
+bulletproof vest - бронежилет
+bullet train - скоростной поезд
+butcher shop - мясная лавка
+cab - такси
+caldron - котел
+candle - свеча
+cannon - пушка
+canoe - каноэ
+can opener - консервный нож
+cardigan - кардиган
+car mirror - автомобильное зеркало
+carousel - карусель
+carpenter's kit - набор инструментов плотника
+carton - картонная коробка
+car wheel - автомобильное колесо
+cash machine - банкомат
+cassette - кассета
+cassette player - кассетный проигрыватель
+castle - замок
+catamaran - катамаран
+CD player - CD-плеер
+cello - виолончель
+cellular telephone - сотовый телефон
+chain - цепь
+chainlink fence - сетка-рабица
+chain mail - кольчуга
+chain saw - цепная пила
+chest - сундук
+chiffonier - комод
+chime - колокольчик
+china cabinet - сервант
+Christmas stocking - рождественский носок
+church - церковь
+cinema - кинотеатр
+cleaver - тесак
+cliff dwelling - скальное жилище
+cloak - плащ
+clog - сабо
+cocktail shaker - шейкер для коктейлей
+coffee mug - кофейная кружка
+coffeepot - кофейник
+coil - катушка
+combination lock - кодовый замок
+computer keyboard - компьютерная клавиатура
+confectionery - кондитерская
+container ship - контейнеровоз
+convertible - кабриолет
+corkscrew - штопор
+cornet - корнет
+cowboy boot - ковбойский сапог
+cowboy hat - ковбойская шляпа
+cradle - люлька
+crane - кран
+crash helmet - защитный шлем
+crate - ящик
+crib - детская кроватка
+Crock Pot - мультиварка
+croquet ball - шар для крокета
+crutch - костыль
+cuirass - кираса
+dam - плотина
+desk - письменный стол
+desktop computer - настольный компьютер
+dial telephone - дисковый телефон
+diaper - подгузник
+digital clock - электронные часы
+digital watch - цифровые часы
+dining table - обеденный стол
+dishrag - тряпка для посуды
+dishwasher - посудомоечная машина
+disk brake - дисковый тормоз
+dock - док
+dogsled - собачьи сани
+dome - купол
+doormat - дверной коврик
+drilling platform - буровая платформа
+drum - барабан
+drumstick - барабанная палочка
+dumbbell - гантель
+Dutch oven - чугунная кастрюля
+electric fan - электрический вентилятор
+electric guitar - электрогитара
+electric locomotive - электровоз
+entertainment center - развлекательный центр
+envelope - конверт
+espresso maker - эспрессо-машина
+face powder - пудра
+feather boa - боа из перьев
+file - напильник
+fireboat - пожарный катер
+fire engine - пожарная машина
+fire screen - каминный экран
+flagpole - флагшток
+flute - флейта
+folding chair - складной стул
+football helmet - футбольный шлем
+forklift - вилочный погрузчик
+fountain - фонтан
+fountain pen - перьевая ручка
+four-poster - кровать с балдахином
+freight car - товарный вагон
+French horn - валторна
+frying pan - сковорода
+fur coat - шуба
+garbage truck - мусоровоз
+gasmask - противогаз
+gas pump - бензоколонка
+goblet - кубок
+go-kart - картинг
+golf ball - мяч для гольфа
+golfcart - гольф-кар
+gondola - гондола
+gong - гонг
+gown - мантия
+grand piano - рояль
+greenhouse - теплица
+grille - решетка
+grocery store - продуктовый магазин
+guillotine - гильотина
+hair slide - заколка для волос
+hair spray - лак для волос
+half track - полугусеничный тягач
+hammer - молоток
+hamper - корзина
+hand blower - ручной фен
+hand-held computer - портативный компьютер
+handkerchief - носовой платок
+hard disc - жесткий диск
+harmonica - губная гармошка
+harp - арфа
+harvester - комбайн
+hatchet - топорик
+holster - кобура
+home theater - домашний кинотеатр
+honeycomb - соты
+hook - крючок
+hoopskirt - кринолин
+horizontal bar - перекладина
+horse cart - конная повозка
+hourglass - песочные часы
+iPod - айпод
+iron - утюг
+jack-o'-lantern - тыква-светильник
+jean - джинсы
+jeep - джип
+jersey - джерси
+jigsaw puzzle - головоломка
+jinrikisha - рикша
+joystick - джойстик
+kimono - кимоно
+knee pad - наколенник
+knot - узел
+lab coat - лабораторный халат
+ladle - половник
+lampshade - абажур
+laptop - ноутбук
+lawn mower - газонокосилка
+lens cap - крышка объектива
+letter opener - нож для писем
+library - библиотека
+lifeboat - спасательная шлюпка
+lighter - зажигалка
+limousine - лимузин
+liner - лайнер
+lipstick - губная помада
+Loafer - лоферы
+lotion - лосьон
+loudspeaker - громкоговоритель
+loupe - лупа
+lumbermill - лесопилка
+magnetic compass - магнитный компас
+mailbag - почтовая сумка
+mailbox - почтовый ящик
+maillot - купальник
+maillot - трико
+manhole cover - крышка люка
+maraca - марака
+marimba - маримба
+mask - маска
+matchstick - спичка
+maypole - майское дерево
+maze - лабиринт
+measuring cup - мерный стакан
+medicine chest - аптечка
+megalith - мегалит
+microphone - микрофон
+microwave - микроволновая печь
+military uniform - военная форма
+milk can - бидон для молока
+minibus - микроавтобус
+miniskirt - мини-юбка
+minivan - минивэн
+missile - ракета
+mitten - варежка
+mixing bowl - миска для смешивания
+mobile home - передвижной дом
+Model T - Форд Модель Т
+modem - модем
+monastery - монастырь
+monitor - монитор
+moped - мопед
+mortar - ступка
+mortarboard - академическая шапочка
+mosque - мечеть
+mosquito net - москитная сетка
+motor scooter - мотороллер
+mountain bike - горный велосипед
+mountain tent - горная палатка
+mouse - мышь
+mousetrap - мышеловка
+moving van - фургон для переезда
+muzzle - намордник
+nail - гвоздь
+neck brace - шейный воротник
+necklace - ожерелье
+nipple - сосок
+notebook - тетрадь
+obelisk - обелиск
+oboe - гобой
+ocarina - окарина
+odometer - одометр
+oil filter - масляный фильтр
+organ - орган
+oscilloscope - осциллограф
+overskirt - верхняя юбка
+oxcart - воловья повозка
+oxygen mask - кислородная маска
+packet - пакет
+paddle - весло
+paddlewheel - гребное колесо
+padlock - навесной замок
+paintbrush - кисть для рисования
+pajama - пижама
+palace - дворец
+panpipe - панфлейта
+paper towel - бумажное полотенце
+parachute - парашют
+parallel bars - параллельные брусья
+park bench - парковая скамейка
+parking meter - парковочный счетчик
+passenger car - легковой автомобиль
+patio - патио
+pay-phone - таксофон
+pedestal - пьедестал
+pencil box - пенал
+pencil sharpener - точилка для карандашей
+perfume - духи
+Petri dish - чашка Петри
+photocopier - ксерокс
+pick - кирка
+pickelhaube - пикельхаубе
+picket fence - штакетник
+pickup - пикап
+pier - пирс
+piggy bank - копилка
+pill bottle - флакон для таблеток
+pillow - подушка
+ping-pong ball - мяч для пинг-понга
+pinwheel - ветрячок
+pirate - пират
+pitcher - кувшин
+plane - самолет
+planetarium - планетарий
+plastic bag - полиэтиленовый пакет
+plate rack - сушилка для тарелок
+plow - плуг
+plunger - вантуз
+Polaroid camera - камера Полароид
+pole - столб
+police van - полицейский фургон
+poncho - пончо
+pool table - бильярдный стол
+pop bottle - бутылка газировки
+pot - горшок
+potter's wheel - гончарный круг
+power drill - дрель
+prayer rug - молитвенный коврик
+printer - принтер
+prison - тюрьма
+projectile - снаряд
+projector - проектор
+puck - шайба
+punching bag - боксерская груша
+purse - кошелек
+quill - перо
+quilt - стеганое одеяло
+racer - гонщик
+racket - ракетка
+radiator - радиатор
+radio - радио
+radio telescope - радиотелескоп
+rain barrel - бочка для дождевой воды
+recreational vehicle - дом на колесах
+reel - катушка
+reflex camera - зеркальная камера
+refrigerator - холодильник
+remote control - пульт дистанционного управления
+restaurant - ресторан
+revolver - револьвер
+rifle - винтовка
+rocking chair - кресло-качалка
+rotisserie - вертел
+rubber eraser - ластик
+rugby ball - мяч для регби
+rule - линейка
+running shoe - кроссовок
+safe - сейф
+safety pin - английская булавка
+saltshaker - солонка
+sandal - сандалия
+sarong - саронг
+sax - саксофон
+scabbard - ножны
+scale - весы
+school bus - школьный автобус
+schooner - шхуна
+scoreboard - табло
+screen - экран
+screw - винт
+screwdriver - отвертка
+seat belt - ремень безопасности
+sewing machine - швейная машина
+shield - щит
+shoe shop - обувной магазин
+shoji - сёдзи
+shopping basket - корзина для покупок
+shopping cart - тележка для покупок
+shovel - лопата
+shower cap - шапочка для душа
+shower curtain - занавеска для душа
+ski - лыжа
+ski mask - балаклава
+sleeping bag - спальный мешок
+slide rule - логарифмическая линейка
+sliding door - раздвижная дверь
+slot - щель
+snorkel - трубка для плавания
+snowmobile - снегоход
+snowplow - снегоочиститель
+soap dispenser - дозатор для мыла
+soccer ball - футбольный мяч
+sock - носок
+solar dish - солнечная тарелка
+sombrero - сомбреро
+soup bowl - суповая тарелка
+space bar - пробел
+space heater - обогреватель
+space shuttle - космический шаттл
+spatula - лопатка
+speedboat - скоростной катер
+spider web - паутина
+spindle - веретено
+sports car - спортивный автомобиль
+spotlight - прожектор
+stage - сцена
+steam locomotive - паровоз
+steel arch bridge - стальной арочный мост
+steel drum - стальная бочка
+stethoscope - стетоскоп
+stole - палантин
+stone wall - каменная стена
+stopwatch - секундомер
+stove - плита
+strainer - ситечко
+streetcar - трамвай
+stretcher - носилки
+studio couch - диван-кровать
+stupa - ступа
+submarine - подводная лодка
+suit - костюм
+sundial - солнечные часы
+sunglass - солнечные очки
+sunglasses - солнцезащитные очки
+sunscreen - солнцезащитный крем
+suspension bridge - подвесной мост
+swab - тампон
+sweatshirt - толстовка
+swimming trunks - плавки
+swing - качели
+switch - выключатель
+syringe - шприц
+table lamp - настольная лампа
+tank - танк
+tape player - магнитофон
+teapot - чайник
+teddy - плюшевый мишка
+television - телевизор
+tennis ball - теннисный мяч
+thatch - соломенная крыша
+theater curtain - театральный занавес
+thimble - наперсток
+thresher - молотилка
+throne - трон
+tile roof - черепичная крыша
+toaster - тостер
+tobacco shop - табачная лавка
+toilet seat - сиденье унитаза
+torch - факел
+totem pole - тотемный столб
+tow truck - эвакуатор
+toyshop - магазин игрушек
+tractor - трактор
+trailer truck - грузовик с прицепом
+tray - поднос
+trench coat - плащ
+tricycle - трехколесный велосипед
+trimaran - тримаран
+tripod - штатив
+triumphal arch - триумфальная арка
+trolleybus - троллейбус
+trombone - тромбон
+tub - ванна
+turnstile - турникет
+typewriter keyboard - клавиатура печатной машинки
+umbrella - зонт
+unicycle - одноколесный велосипед
+upright - вертикальное пианино
+vacuum - пылесос
+vase - ваза
+vault - сейф
+velvet - бархат
+vending machine - торговый автомат
+vestment - облачение
+viaduct - виадук
+violin - скрипка
+volleyball - волейбол
+waffle iron - вафельница
+wall clock - настенные часы
+wallet - бумажник
+wardrobe - гардероб
+warplane - военный самолет
+washbasin - умывальник
+washer - стиральная машина
+water bottle - бутылка для воды
+water jug - кувшин для воды
+water tower - водонапорная башня
+whiskey jug - кувшин для виски
+whistle - свисток
+wig - парик
+window screen - оконная сетка
+window shade - оконная штора
+Windsor tie - виндзорский галстук
+wine bottle - винная бутылка
+wing - крыло
+wok - вок
+wooden spoon - деревянная ложка
+wool - шерсть
+worm fence - плетень
+wreck - крушение
+yawl - йола
+yurt - юрта
+web site - веб-сайт
+comic book - комикс
+crossword puzzle - кроссворд
+street sign - дорожный знак
+traffic light - светофор
+book jacket - суперобложка
+menu - меню
+plate - тарелка
+guacamole - гуакамоле
+consomme - консоме
+hot pot - горячий горшок
+trifle - трайфл
+ice cream - мороженое
+ice lolly - фруктовый лед
+French loaf - французский батон
+bagel - рогалик
+pretzel - крендель
+cheeseburger - чизбургер
+hotdog - хот-дог
+mashed potato - картофельное пюре
+head cabbage - кочанная капуста
+broccoli - брокколи
+cauliflower - цветная капуста
+zucchini - цукини
+spaghetti squash - спагетти-сквош
+acorn squash - желудевая тыква
+butternut squash - мускатная тыква
+cucumber - огурец
+artichoke - артишок
+bell pepper - сладкий перец
+cardoon - кардон
+mushroom - гриб
+Granny Smith - Гренни Смит
+strawberry - клубника
+orange - апельсин
+lemon - лимон
+fig - инжир
+pineapple - ананас
+banana - банан
+jackfruit - джекфрут
+custard apple - аннона
+pomegranate - гранат
+hay - сено
+carbonara - карбонара
+chocolate sauce - шоколадный соус
+dough - тесто
+meat loaf - мясной рулет
+pizza - пицца
+potpie - мясной пирог
+burrito - буррито
+red wine - красное вино
+espresso - эспрессо
+cup - чашка
+eggnog - эгг-ног
+alp - альпийский луг
+bubble - пузырь
+cliff - скала
+coral reef - коралловый риф
+geyser - гейзер
+lakeside - берег озера
+promontory - мыс
+sandbar - песчаная коса
+seashore - морской берег
+valley - долина
+volcano - вулкан
+ballplayer - игрок в мяч
+groom - жених
+scuba diver - аквалангист
+rapeseed - рапс
+daisy - маргаритка
+yellow lady's slipper - желтый венерин башмачок
+corn - кукуруза
+acorn - желудь
+hip - ягода шиповника
+buckeye - конский каштан
+coral fungus - рогатик
+agaric - пластинчатый гриб
+gyromitra - гиромитра
+stinkhorn - веселка
+earthstar - звездовик
+hen-of-the-woods - гриб-баран
+bolete - белый гриб
+ear - ухо
+toilet tissue - туалетная бумага

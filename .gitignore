@@ -1,0 +1,7 @@
+.idea/*
+__pycache__/*
+image_index.pkl
+image_tags_log.json
+images/*
+model.bin
+proj_backup/*
